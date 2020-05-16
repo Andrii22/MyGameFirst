@@ -3,7 +3,7 @@ import time
 import random
 
 tk = Tk()
-tk.title('Game')
+tk.title('Game from old Nokia3310')
 tk.resizable(0, 0)
 tk.wm_attributes('-topmost', 1)
 canvas = Canvas(tk, width=500, height=400, highlightthickness=0)
